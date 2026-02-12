@@ -110,7 +110,8 @@ function App() {
             transition={{ delay: 0.8 }}
             className="text-2xl md:text-3xl text-gray-800 mb-8 font-medium"
           >
-            You just made my whole Valentine's Day 🫶💌
+            You just made my whole Valentine's Day 🥺
+            , I love youuuuu💘💞
           </motion.p>
 
           <motion.div
@@ -151,7 +152,7 @@ function App() {
               animate={{ rotate: [0, -20, 20, 0], scale: [1, 1.2, 1] }}
               transition={{ duration: 2, repeat: Infinity }}
             >
-              🫶
+              🥺
             </motion.span>
           </motion.div>
         </motion.div>
@@ -217,7 +218,7 @@ function App() {
                 animate={{ scale: [1, 1.02, 1] }}
                 transition={{ duration: 2, repeat: Infinity }}
               >
-                Would you do me the honor of being my Valentine? 🫶💌
+                Would you do me the honor of being my Valentine Ayuk Divine?🥺 
               </motion.p>
 
               <motion.p
